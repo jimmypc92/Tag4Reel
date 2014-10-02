@@ -1,0 +1,7 @@
+PHP json_encode:
+
+http://php.net/manual/en/function.json-encode.php
+
+json_encode example:
+
+http://stackoverflow.com/questions/20700981/mysql-query-and-encoding-it-in-json-format

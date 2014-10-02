@@ -1,0 +1,7 @@
+APP layout reference:
+
+https://developer.android.com/design/patterns/app-structure.html
+
+Navigation Drawer:
+
+https://developer.android.com/design/patterns/navigation-drawer.html
